@@ -1,6 +1,6 @@
 ---
 title: excessively formal k-12 mathematics methods
-author: bennnnni a
+author: ben rosenberg
 geometry: margin=0.85in
 ---
 
